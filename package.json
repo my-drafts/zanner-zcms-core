@@ -1,0 +1,14 @@
+{
+  "name": "zanner-zcms-core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
